@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator test project",
+  "main": "disc/calculator.js",
+  "scripts": {
+    "tsCompile": "tsc",
+    "test": "jest"
+  },
+  "author": "Sergiy Matveyev",
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "typescript",
+    "jest"
+  ],
+  "homepage": "https://github.com/SergiyMatveyev/Calculator.git#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.2",
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
